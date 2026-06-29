@@ -1,4 +1,4 @@
-# 
+# Open Source Mem0 presets. Featuring user-friendly-interface and scalable-architecture — optimized for maximum performance and efficiency.
 
 
 
